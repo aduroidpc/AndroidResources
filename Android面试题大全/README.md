@@ -46,3 +46,13 @@
 ><a href="http://mp.weixin.qq.com/s?__biz=MzI2OTQxMTM4OQ==&mid=2247484286&idx=1&sn=e5843fb79d8a36ab063699b5fb9a0711&chksm=eae1f62cdd967f3a576396f8402581326b835b8327ed5f20f23896fcd22c2115e77863b4115b#rd" target="_blank">2016年未，腾讯，百度，华为，搜狗和滴滴面试题汇总
 >
 ><a href="http://mp.weixin.qq.com/s?__biz=MzI0MjE3OTYwMg==&mid=2649548612&idx=1&sn=8e46b6dd47bd8577a5f7098aa0889098&chksm=f1180c39c66f852fd955a29a9cb4ffa9dc4d528cab524059bcabaf37954fa3f04bc52c41dae8&scene=21#wechat_redirect" target="_blank">［干货］2017已来，最全面试总结——这些Android面试题你一定需要
+>
+><a href="https://github.com/ysq1051838264/AndroidInterview" target="_blank">Android 名企面试题及涉及知识点整理
+>
+><a href="http://blog.csdn.net/dd864140130/article/details/55833087" target="_blank">Java面试题集
+>
+><a href="http://blog.csdn.net/dd864140130/article/details/57408502" target="_blank"> Android面试题集
+>
+><a href="https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles" target="_blank">值得阅读的android技术文章
+>
+><a href="https://github.com/simple-android-framework/android_design_patterns_analysis" target="_blank" >Android源码设计模式分析开源项目(何红辉)
