@@ -13,3 +13,9 @@ Gmail邮箱：dpc7775223@gmail.com
 163邮箱：dpc_206@163.com
 
 CSDN博客：<a href="http://blog.csdn.net/m366917" target="view_window">http://blog.csdn.net/m366917</a>
+
+简书：<a href="http://www.jianshu.com/u/f29996f3e0f8" target="view_window">http://www.jianshu.com/u/f29996f3e0f8</a>
+
+新博客地址：<a href="aduroidpc.tk" target="view_window">aduroidpc.tk</a>
+
+
