@@ -1,4 +1,4 @@
-#综合
+# 综合
 <a href="https://github.com/ReactiveX/RxJava" target="view_window">RxJava</a>
 
 >RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
@@ -11,7 +11,7 @@
 
 >MVP Android Example
 
-#网络框架
+# 网络框架
 <a href="https://github.com/mcxiaoke/android-volley" target="_blank">Android Volley</a>
 
 >Official Android HTTP library that makes networking for easier and faster.
@@ -32,12 +32,12 @@
 
 >一个简单方便的库使用HttpURLConnection类来发出请求和访问的响应。
 
-#依赖注入
+# 依赖注入
 <a href="http://jakewharton.github.io/butterknife/" target="_blank">butterknife</a>
 
 >Bind Android views and callbacks to fields and methods.
 
-#数据库ORM
+# 数据库ORM
 <a href="https://github.com/greenrobot/greenDAO" target="_blank">greenDAO</a>
 
 >一种轻快地将对象映射到SQLite数据库的ORM解决方案
@@ -46,7 +46,7 @@
 
 >JDBC和Android的轻量级ORM java包
 
-#事件总线
+# 事件总线
 <a href="https://github.com/greenrobot/EventBus" target="_blank">EventBus</a>
 
 >Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
@@ -55,7 +55,7 @@
 
 >An enhanced Guava-based event bus with emphasis on Android support.
 
-#加载图片
+# 加载图片
 <a href="https://github.com/facebook/fresco" target="_blank">fresco</a>
 
 >An Android library for managing images and the memory they use.
@@ -72,7 +72,7 @@
 
 >使用volley加载网络图片，主要用到其中的ImageLoader类。
 
-#图片处理
+# 图片处理
 <a href="https://github.com/chrisbanes/PhotoView" target="_blank">PhotoView</a>
 
 >ImageView为Android的实施，支持变焦，各种触摸手势。
@@ -113,7 +113,7 @@
 
 >Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
 
-#数据解析
+# 数据解析
 <a href="https://github.com/google/gson" target="_blank">Gson</a>
 
 >GSON是可以用来转换Java对象到他们的JSON表示创建一个Java库。它也可以用来JSON字符串转换为等价的Java对象。GSON可以用任意的Java对象包括没有源代码的预先存在的对象。
@@ -126,7 +126,7 @@
 
 >Jackson is a suite of data-processing tools for Java (and JVM platform), including the flagship streaming JSON parser / generator library, matching data-binding library (POJOs to and from JSON) and additional data format modules to process data encoded in Avro, BSON, CBOR, CSV, Smile, Protobuf, XML or YAML; and even the large set of data format modules to support data types of widely used data types such as Joda, Guava and many, many more.
 
-#缓存
+# 缓存
 <a href="https://github.com/JakeWharton/DiskLruCache" target="_blank">DiskLruCache</a>
 
 >磁盘缓存：Java implementation of a Disk-based LRU cache which specifically targets Android compatibility.
@@ -139,7 +139,7 @@
 
 >Android 缓存库，融合了DiskLruCache和ASimpleCache.
 
-#工具集
+# 工具集
 <a href="https://github.com/litesuits/android-common" target="_blank">android-common</a>
 
 >一系列通用类、辅助类、工具类的集合,通用性强，纯洁简单，体积不到50K！其中包括shell命令，静默安装，bitmap处理，文件操作，加密存储器，计数器，均值器，吐司，日志，校验，提示，网络监测等基础功能，以及一些Base64、MD5、Hex、Byte、Number、Dialog、Filed、Class、Package、Telephone、Random等工具类。
@@ -152,7 +152,7 @@
 
 >Android 资源混淆
 
-#多媒体
+# 多媒体
 <a href="https://github.com/JakeWharton/Telecine" target="_blank">Telecine</a>
 
 >Record full-resolution video on your Android devices.
@@ -185,7 +185,7 @@
 
 >Android Video Player , Like NetEaseNews Video Player.
 
-#智能识别
+# 智能识别
 <a href="https://github.com/DynamsoftRD/android-tesseract-ocr" target="_blank">android-tesseract-ocr</a>
 
 >Android Tesseract OCR
@@ -198,7 +198,7 @@
 
 >二维码识别
 
-####以下为第三方服务
+### 以下为第三方服务
 <a href="http://apistore.baidu.com/apiworks/servicedetail/464.html" target="_blank">人脸识别</a>
 
 >提供多种人脸验证、比对api，可用于注册登陆、1:1身份认证、小规模1:N人脸识别等应用场景；
@@ -219,7 +219,7 @@
 
 >提供指纹检测、指纹认证、识别等功能， 并支持第三方应用创建指纹（fingerprint）、人（people）、人群（crowd）。方便第三方应用实现1:1和1：N应用场景。
 
-#第三方推送/即时通信
+# 第三方推送/即时通信
 
 - [环信即时通讯云](hhttp://www.easemob.com/)
 - [融云即时通讯云](http://www.rongcloud.cn/)
@@ -240,7 +240,7 @@
 >[图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 >
 
-#值得关注的个人博客
+# 值得关注的个人博客
 
 - http://blog.zhaiyifan.cn/
 - https://hujiaweibujidao.github.io/android/
@@ -254,7 +254,7 @@
 * 安卓开发艺术探索读书笔记,地址: [简书](http://www.jianshu.com/p/eb3247fac29a)
 * EffectiveJava读书笔记,地址: [CSDN](http://blog.csdn.net/chjttony/article/category/1311991)
 
-#开源项目推荐
+# 开源项目推荐
 
 - http://www.codemx.cn/2016/07/25/Android-open-project/
 - [码农周刊整理<很好的整理资源>](https://github.com/nemoTyrant/manong)
