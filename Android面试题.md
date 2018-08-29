@@ -1,5 +1,5 @@
 #Android面试题<a href="" target="_blank">
-###自己平时收藏的一些Android面试题，希望能帮助到大家，觉得有用的话就star一下吧！
+### 自己平时收藏的一些Android面试题，希望能帮助到大家，觉得有用的话就star一下吧！
 >
 ><a href="https://www.zhihu.com/question/19765032/answer/74361190?group_id=654385507203747840" target="_blank">面试时，问哪些问题能试出一个 Android 应用开发者真正的水平？</a>
 >
@@ -56,3 +56,6 @@
 ><a href="https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles" target="_blank">值得阅读的android技术文章
 >
 ><a href="https://github.com/simple-android-framework/android_design_patterns_analysis" target="_blank" >Android源码设计模式分析开源项目(何红辉)
+>
+><a href="https://mp.weixin.qq.com/s/WVBJqqF6HGGJyzI1hc4fPg" target="_blank">分享一份非常强势的Android面试题
+>
