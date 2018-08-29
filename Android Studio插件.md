@@ -1,10 +1,10 @@
-#Android Studio插件
+# Android Studio插件
 
-<a href="https://github.com/tmorcinek/android-codegenerator-plugin-intellij" target="_blank">android-codegenerator-plugin-intellij
+<a href="https://github.com/tmorcinek/android-codegenerator-plugin-intellij" target="_blank">android-codegenerator-plugin-intellij</a>
 
 >根据布局文件快速生成对应的Activity，Fragment，Adapter，Menu
 
-<a href="https://github.com/konifar/android-strings-search-plugin" target="_blank">android-strings-search-plugin
+<a href="https://github.com/konifar/android-strings-search-plugin" target="_blank">android-strings-search-plugin</a>
 
 >这个插件可以很容易地在字符串资源搜索文本。
 
